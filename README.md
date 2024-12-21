@@ -14,3 +14,16 @@ These are the metrics calculated for the analysis:
 * Dynamic Range: A larger peak-to-peak swing would indicate a larger amplitude. In turn, a larger amplitude quantifies areas of greater muscle contraction.
 * Average Power (Mean-Square): The mean-square provides an estimate of the variance in the data. This could quantify for us whether or not there are many spikes in the segment that indicate sudden, large muscle contractions.
 * Root Mean Square: The RMS value of the EMG signal provides the equivalent to the DC component of the signal. This could quantify the baseline measure of electrical activity from the EMG.
+
+Following this, a statistical analysis was conducted to determine which metric correlates best with EMG activity.
+<img src="https://github.com/user-attachments/assets/5d580d57-5128-415a-ad6c-20bb867a2542" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/3511823e-ad4e-48f5-bcca-d151692118f8" width="400" height="158">
+
+Plots of linear regression:
+
+<img src="https://github.com/user-attachments/assets/bee66772-dcef-4cd0-bb4e-2c68329df39e" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/8a591462-9b67-493a-8945-ca6963f4adf6" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/1358503a-f376-4877-8919-4caba923439d" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/3fcd45e9-a7b4-4dcc-a53d-25dca16c3ffe" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/07752370-e605-4318-b462-56e2a4f42aa1" width="400" height="300">
+
