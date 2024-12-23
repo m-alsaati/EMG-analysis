@@ -19,7 +19,7 @@ Following this, a statistical analysis was conducted to determine which metric c
 <img src="https://github.com/user-attachments/assets/5d580d57-5128-415a-ad6c-20bb867a2542" width="400" height="300">
 <img src="https://github.com/user-attachments/assets/3511823e-ad4e-48f5-bcca-d151692118f8" width="400" height="158">
 
-Plots of Linear Regression:
+### Plots of Linear Regression:
 
 <img src="https://github.com/user-attachments/assets/bee66772-dcef-4cd0-bb4e-2c68329df39e" width="400" height="300">
 <img src="https://github.com/user-attachments/assets/8a591462-9b67-493a-8945-ca6963f4adf6" width="400" height="300">
@@ -27,7 +27,7 @@ Plots of Linear Regression:
 <img src="https://github.com/user-attachments/assets/3fcd45e9-a7b4-4dcc-a53d-25dca16c3ffe" width="400" height="300">
 <img src="https://github.com/user-attachments/assets/07752370-e605-4318-b462-56e2a4f42aa1" width="400" height="300">
 
-Plots of Residual Values:
+### Plots of Residual Values:
 
 <img src="https://github.com/user-attachments/assets/22fc0c93-306d-4c07-bb2d-fdac615eac92" width="400" height="300">
 <img src="https://github.com/user-attachments/assets/e134ed89-ca00-4b5e-b3e7-ba2669a6f9dd" width="400" height="300">
@@ -37,7 +37,7 @@ Plots of Residual Values:
 
 Residual Values are the difference between calculated values and estimated ones. We look for low residual values as they represent a more accurate plot. These values help with determining which feature is better to study a signal.
 
-Plots of Mean Square Error:
+### Plots of Mean Square Error:
 
 <img src="https://github.com/user-attachments/assets/ca8f32fd-d12c-41b0-bb4e-1e23fe042340" width="400" height="300">
 <img src="https://github.com/user-attachments/assets/ef061a51-300c-49ce-9497-f4e7df37edfd" width="400" height="300">
